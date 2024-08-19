@@ -85,6 +85,8 @@ To establish the connection to the database, we use a module called *connection.
 
 ### Installing the dependencies with *Poetry*
 
+> To install Poetry follow [this link](https://elcuaderno.notion.site/Poetry-8f7b23a0f9f340318bbba4ef36023d60?pvs=4).
+
 
 1. Enter the Poetry shell with `poetry shell`.
 
