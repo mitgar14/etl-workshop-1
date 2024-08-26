@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 
 # Reading the environment variables
-load_dotenv("../env/.env")
+load_dotenv("./env/.env")
 
 driver = os.getenv("PG_DRIVER")
 
