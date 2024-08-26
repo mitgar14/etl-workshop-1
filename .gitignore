@@ -8,5 +8,4 @@ __pycache__/
 poetry.lock
 
 # Power BI files
-*.pbix
 pbix/
