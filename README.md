@@ -125,17 +125,17 @@ Remember to choose **the right Python kernel** at the time of running the notebo
 
 3. Fill in the following fields with your credentials.
 
-![image](https://github.com/user-attachments/assets/23c2f375-500d-485a-a0f0-991e5f2e0984)
+![image](https://github.com/user-attachments/assets/18748b7f-7d5c-4c21-891a-70e77dd21d69)
 
 
 4. If you manage to connect to the database the following tables will appear:
 
-![image](https://github.com/user-attachments/assets/5314386e-c2ee-43d0-be33-8a5870a67fcf)
+![image](https://github.com/user-attachments/assets/2b4aa913-5fa3-4dc3-8704-1d56a4354a89)
 
 
 5. Choose the candidates_hired table and start making your own visualizations!
 
-![image](https://github.com/user-attachments/assets/81042b0b-194b-460e-b198-eb18ca09b3ce)
+![image](https://github.com/user-attachments/assets/4cdff11e-215f-4387-8a2f-ab383dbe436d)
 
 
 ## Thank you! 💕🐍
